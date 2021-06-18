@@ -1,0 +1,4 @@
+env.sh
+output_dir/
+__pycache__/
+.vscode/
